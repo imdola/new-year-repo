@@ -118,7 +118,89 @@
         width: 340px;
         height: 465px;
         margin-top: 70px;
+        margin-left: 20px;
     }
+    /* PARTY SECTION ENDS  */
+    
+    /* CIRCLE SECTION STARTS  */
+   #circle{
+        width: 1320px;
+        height: 600px;
+        margin-top: 140px;
+   }
+   .circle-container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+   }
+   .circle-text-container{
+        width: 30%;
+   }
+   .circle-text-container h4{
+        color: rgb(255, 0, 0);
+        font-family: "Inter", sans-serif;
+        font-size: 24px;
+        font-weight: 500;
+   } 
+   .circle-text-container h1{
+        margin-top: 15px;
+        font-family: "Merriweather", serif;
+        font-size: 48px;
+        font-weight: 900;
+        color: rgb(7, 2, 17);
+    }
+    .circle-text-container p{
+        margin-top: 35px;
+        font-family: "Inter", sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px;
+        color: rgba(7, 2, 17, 0.6);
+    }
+    .circle-img{
+        width: 35%;
+        margin-left: -15px;
+    }
+    .circle-img img{
+        width: 365px;
+        height: 365px;
+        border: 15px solid rgb(255, 0, 0);
+        padding: 25px;
+        border-radius: 365px;
+    }
+    .circle-content{
+        width: 25%;
+    }
+    .circle-content h2{
+        font-family: "Inter", sans-serif;
+        font-size: 48px;
+        font-weight: 700;
+        color: rgb(255, 0, 0);
+    }
+    .circle-content p{
+        margin-top: 15px;
+        font-family: "Inter", sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px;
+        color: rgba(7, 2, 17, 0.6);
+    }
+    .circle-content img{
+        margin-top: 77px;
+    }
+    /* CIRCLE SECTION ENDS  */
+    
+
+    
+
+    
+
+
+        
+    
+
+
+   
 
 
     
